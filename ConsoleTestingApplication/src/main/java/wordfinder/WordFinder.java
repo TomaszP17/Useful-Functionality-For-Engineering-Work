@@ -1,4 +1,4 @@
-package badwords;
+package wordfinder;
 
 public interface WordFinder {
 
